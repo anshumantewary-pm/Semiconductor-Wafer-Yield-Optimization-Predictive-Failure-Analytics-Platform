@@ -1,0 +1,2 @@
+# Semiconductor-Wafer-Yield-Optimization-Predictive-Failure-Analytics-Platform
+End-to-end semiconductor manufacturing analytics platform that predicts wafer defects early using sensor data, identifies yield loss drivers across process stages, and translates defect probability into financial impact. Integrates SQL data pipelines, machine learning models, explainable AI, statistical validation, and ROI simulation for decision.
